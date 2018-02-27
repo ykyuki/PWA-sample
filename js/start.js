@@ -1,0 +1,1 @@
+var ncmb = new NCMB("YOUR_APPLICATION_KEY", "YOUR_CLIENT_KEY");
